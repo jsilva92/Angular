@@ -1,0 +1,19 @@
+/*Testar a responsividade futuramente*/
+
+@media screen and (min-width: 380px) {
+    .container__menu-title > h1 {
+        font-size: 10px;
+    }
+  }
+  
+  @media screen and (min-width: 576px) {
+    .container__menu-title > h1 {
+        font-size: 20px;
+    }
+  }
+  
+  @media screen and (min-width: 962px) {
+    .container__menu-title > h1 {
+        font-size: 30px;
+    }
+  }
